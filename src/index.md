@@ -1,7 +1,16 @@
 ---
-title: Home
+title: Home2
 layout: base.njk
 tags: navItem
 ---
 
-This is the home page. Replace this with your text.
+
+###Writing in Markdown is _not_ that hard!  
+[Search for it.](www.google.com)
+
+* Music
+* Numbers
+* Charts
+* Phones
+
+ 
